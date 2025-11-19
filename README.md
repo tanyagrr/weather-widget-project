@@ -23,3 +23,6 @@ A simple weather widget built with vanilla JavaScript to practice working with A
 - How to update the UI dynamically based on fetched data
 - How to create small, reusable rendering functions
 - How to make interactive UI elements like a refresh button with animations
+
+## Check it out:
+https://weather-widget-project-eight.vercel.app/
